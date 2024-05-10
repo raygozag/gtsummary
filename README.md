@@ -2,6 +2,8 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 <!-- badges: start -->
 
+## This version has the propganda at startup removed
+
 [![R-CMD-check](https://github.com/ddsjoberg/gtsummary/workflows/R-CMD-check/badge.svg)](https://github.com/ddsjoberg/gtsummary/actions)
 [![CRAN
 status](https://www.r-pkg.org/badges/version/gtsummary)](https://cran.r-project.org/package=gtsummary)
